@@ -1629,8 +1629,9 @@ button.mfp-close {
 }
 
 .tab01 .nav-link.active {
-  color: #333;
+  color: #fff;
   border-color: #797979;
+  background-color: transparent;
 }
 
 .tab01 .nav-link:hover {
