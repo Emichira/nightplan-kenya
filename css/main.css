@@ -1630,13 +1630,13 @@ button.mfp-close {
 
 .tab01 .nav-link.active {
   color: #fff;
-  border-color: #797979;
+  border-color: #E94B3CFF;
   background-color: transparent;
 }
 
 .tab01 .nav-link:hover {
   color: #E94B3CFF;
-  border-color: #797979;
+  border-color: #fff;
 }
 
 
@@ -2861,8 +2861,8 @@ input.num-product::-webkit-inner-spin-button {
 
 /*---------------------------------------------*/
 .how-active1 {
-  color: #333;
-  border-color: #797979;
+  color: #fff;
+  border-color: #E94B3CFF;
 }
 
 
@@ -3166,8 +3166,8 @@ input.num-product::-webkit-inner-spin-button {
 
 /*---------------------------------------------*/
 .hov1:hover {
-  color: #333;
-  border-color: #797979;
+  color: #E94B3CFF;
+  border-color: #f2f2f2;
 }
 
 /*---------------------------------------------*/
