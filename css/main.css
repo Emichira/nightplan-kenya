@@ -2223,7 +2223,7 @@ input.num-product::-webkit-inner-spin-button {
 
 .stext-114 {
   font-family: Poppins-Italic;
-  font-size: 15px;
+  font-size: 16px;
   line-height: 1.666667;
 }
 
@@ -2672,10 +2672,10 @@ input.num-product::-webkit-inner-spin-button {
 .bg3 {background-color: #222;}
 .bg5 {background-color: rgba(0,0,0,0.5);}
 .bg6 {background-color: #f2f2f2;}
-/* .bg7 {background-color: #333;} */
 .bg7 {background-color: #2D2926FF;}
 .bg8 {background-color: #f3f3f3;}
 .bg9 {background-color: rgba(255,255,255,0.9);}
+.bg10 {background-color: #333;}
 
 /*---------------------------------------------*/
 .bg-overlay1::before {
