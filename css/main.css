@@ -3374,7 +3374,6 @@ input.num-product::-webkit-inner-spin-button {
 .fourofour {
 	height: 100%;
 	width: 100%;
-	background: #fff;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
